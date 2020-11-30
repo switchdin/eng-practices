@@ -1,4 +1,4 @@
-# How to write code review comments
+# How to Write Code Review Comments
 
 
 
@@ -19,7 +19,9 @@ while also being very clear and helpful to the developer whose code you are
 reviewing. One way to do this is to be sure that you are always making comments
 about the *code* and never making comments about the *developer*. You don't
 always have to follow this practice, but you should definitely use it when
-saying something that might otherwise be upsetting or contentious. For example:
+saying something that might otherwise be upsetting or contentious. 
+
+For example:
 
 Bad: "Why did **you** use threads here when there's obviously no benefit to be
 gained from concurrency?"
@@ -39,7 +41,7 @@ following, or how your suggestion improves code health.
 
 ## Giving Guidance {#guidance}
 
-**In general it is the developer's responsibility to fix a CL, not the
+**In general it is the developer's responsibility to fix a PR, not the
 reviewer's.** You are not required to do detailed design of a solution or write
 code for the developer.
 
@@ -51,14 +53,14 @@ can result in a better solution, because the developer is closer to the code
 than the reviewer is.
 
 However, sometimes direct instructions, suggestions, or even code are more
-helpful. The primary goal of code review is to get the best CL possible. A
+helpful. The primary goal of code review is to get the best PR possible. A
 secondary goal is improving the skills of developers so that they require less
 and less review over time.
 
 Remember that people learn from reinforcement of what they are doing well and
-not just what they could do better. If you see things you like in the CL,
+not just what they could do better. If you see things you like in the PR,
 comment on those too! Examples: developer cleaned up a messy algorithm, added
-exemplary test coverage, or you as the reviewer learned something from the CL.
+exemplary test coverage, or you as the reviewer learned something from the PR.
 Just as with all comments, include [why](#why) you liked something, further
 encouraging the developer to continue good practices.
 
