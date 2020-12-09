@@ -61,19 +61,17 @@ comments out immediately:
     you're reviewing, they're also going to have to re-work their later PR. You
     want to catch them before they've done too much extra work on top of the
     problematic design.
--   Major design changes take longer to do than small changes. Developers nearly
-    all have deadlines; in order to make those deadlines and still have quality
-    code in the codebase, the developer needs to start on any major re-work of
-    the PR as soon as possible.
+-   Major design changes take longer to do than small changes. To make deadlines
+    and produce quality code in the codebase, the developer needs to start on any
+    major re-work of the PR as soon as possible.
 
 ## Step Three: Look through the rest of the PR in an appropriate sequence {#step_three}
 
-Once you've confirmed there are no major design problems with the PR as a whole,
-try to figure out a logical sequence to look through the files while also making
-sure you don't miss reviewing any file. Usually after you've looked through the
-major files, it's simplest to just go through each file in the order that
+Once there are no major design problems with the PR as a whole, try to figure out a
+logical sequence to look through the all the files. Usually after you've looked 
+through the major files, it's simplest to just go through each file in the order that
 the code review tool presents them to you. Sometimes it's also helpful to read the tests
 first before you read the main code, because then you have an idea of what the
-change is supposed to be doing.
+change is supposed to do.
 
 Next: [Speed of Code Reviews](speed.md)
