@@ -130,8 +130,7 @@ follow the guidelines.
 
 Otherwise, if the style guideline is more a recommendation and not a
 requirement, then it's a judgment call whether the new code should be consistent
-with the style guide or the surrounding code. Bias towards following the style
-guide unless the local inconsistency would be too confusing.
+with the style guide or the surrounding code.
 
 If no other rule applies, the author should maintain consistency with the
 existing code.
@@ -182,7 +181,7 @@ It's also useful to think about the PR in the context of the system as a whole.
 Is this PR improving the code health of the system or is it making the whole
 system more complex, less tested, etc.? **Don't accept PRs that degrade the code
 health of the system.** Most systems become complex through many small changes
-that add up, so it's important to prevent even small complexities in new
+that add up, so it's important to prevent even small unneeded complexities in new
 changes.
 
 ## Good Things {#good_things}
