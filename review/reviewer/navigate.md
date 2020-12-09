@@ -68,7 +68,7 @@ comments out immediately:
 ## Step Three: Look through the rest of the PR in an appropriate sequence {#step_three}
 
 Once there are no major design problems with the PR as a whole, try to figure out a
-logical sequence to look through the all the files. Usually after you've looked 
+logical sequence to look through all the files. Usually after you've looked 
 through the major files, it's simplest to just go through each file in the order that
 the code review tool presents them to you. Sometimes it's also helpful to read the tests
 first before you read the main code, because then you have an idea of what the

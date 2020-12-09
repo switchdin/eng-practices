@@ -204,7 +204,7 @@ It's also useful to think about the PR in the context of the system as a whole.
 Is this PR improving the code health of the system or is it making the whole
 system more complex, less tested, etc.? **Don't accept PRs that degrade the code
 health of the system.** Most systems become complex through many small changes
-that add up, so it's important to prevent even small unneeded complexities in new
+that add up, so it's important to prevent even small unnecessary complexities in new
 changes.
 
 ## Good Things {#good_things}
