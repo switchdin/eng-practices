@@ -4,10 +4,10 @@
 
 ## Summary
 
-* During a disagreement, a reviewer should consider the perspective of the developer.
-* Reviewers should politely but firmly stand by their suggestion if it improves code health.
-* Upsets are usually more about the way comments are written than about the reviewer’s insistence on code quality.
-* Usually reviewers should insist the PR to be cleaned up now rather than later.
+-   During a disagreement, a reviewer should consider the perspective of the developer.
+-   Reviewers should politely but firmly stand by their suggestion if it improves code health.
+-   Upsets are usually more about the way comments are written than about the reviewer’s insistence on code quality.
+-   Usually reviewers should insist the PR to be cleaned up now rather than later.
 
 ## Who Is Right? {#who_is_right}
 
