@@ -2,6 +2,13 @@
 
 
 
+## Summary
+
+* Code reviews should be conducted asap without interrupting a focused task.
+* Individual response speed is more important than the overall review process time.
+* Slow individual response speed result in slower overall development 
+* Reviewers should request developlers to split a massive PR into smaller PRs.
+
 ## Why Should Code Reviews Be Fast? {#why}
 
 **At SwitchDin, we optimize for the speed at which a team of developers can produce

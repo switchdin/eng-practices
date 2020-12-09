@@ -2,11 +2,18 @@
 
 
 
+## Summary
+
+* During a disagreement, a reviewer should consider the perspective of the developer.
+* Reviewers should politely but firmly stand by their suggestion if it improves code health.
+* Upsets are usually more about the way comments are written than about the reviewer’s insistence on code quality.
+* Usually reviewers should insist the PR to be cleaned up now rather than later.
+
+## Who Is Right? {#who_is_right}
+
 Sometimes a developer will push back on a code review. Either they will disagree
 with your suggestion or they will complain that you are being too strict in
 general.
-
-## Who Is Right? {#who_is_right}
 
 When a developer disagrees with your suggestion, first take a moment to consider
 if they are correct. Often, they are closer to the code than you are, and so
