@@ -137,4 +137,4 @@ PRs can undergo significant change during review. It can be worthwhile to review
 a PR description before submitting the PR, to ensure that the description still
 reflects what the PR does.
 
-Next: [Small CLs](small-cls.md)
+Next: [Small PRs](small-prs.md)
