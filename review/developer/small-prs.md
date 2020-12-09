@@ -46,9 +46,8 @@ that:
 
 -   The PR makes a minimal change that addresses **just one thing**. This is
     usually just one part of a feature, rather than a whole feature at once. In
-    general it's better to err on the side of writing PRs that are too small vs.
-    PRs that are too large. Work with your reviewer to find out what an
-    acceptable size is.
+    general it's better to err on the side of writing PRs that are too small.
+    Work with your reviewer to find out what an acceptable size is.
 -   The PR should [include related test code](#test_code).
 -   Everything the reviewer needs to understand about the PR (except future
     development) is in the PR, the PR's description, the existing codebase, or a
